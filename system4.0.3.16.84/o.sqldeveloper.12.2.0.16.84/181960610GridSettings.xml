@@ -1,0 +1,48 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableSettings class="oracle.dbtools.raptor.controls.grid.RaptorGridPersistedSettings" xmlns="http://xmlns.oracle.com/jdeveloper/110000/Table-attributes">
+   <columnPositions class="java.util.ArrayList">
+      <Item class="java.lang.String">예약번호</Item>
+      <Item class="java.lang.String">회원아이디</Item>
+      <Item class="java.lang.String">회원이름</Item>
+      <Item class="java.lang.String">연락처</Item>
+      <Item class="java.lang.String">영화제목</Item>
+      <Item class="java.lang.String">장르</Item>
+      <Item class="java.lang.String">런타임</Item>
+      <Item class="java.lang.String">상영시간</Item>
+      <Item class="java.lang.String">티켓가격</Item>
+      <Item class="java.lang.String">예매수량</Item>
+   </columnPositions>
+   <columnWidths>
+      <Item>67</Item>
+      <Item>79</Item>
+      <Item>67</Item>
+      <Item>135</Item>
+      <Item>185</Item>
+      <Item>69</Item>
+      <Item>73</Item>
+      <Item>115</Item>
+      <Item>67</Item>
+      <Item>67</Item>
+   </columnWidths>
+   <searchParams class="java.util.ArrayList"/>
+   <sortClauses>
+      <Item/>
+   </sortClauses>
+   <uniqueName>IdeConnections%23dbselect
+o.R_NUM 예약번호,
+c.ID 회원아이디,
+c.NAME 회원이름,
+c.PHONE 연락처,
+m.M_TITLE 영화제목,
+m.M_GENRE 장르,
+m.M_RUNTIME||'분' 런타임,
+m.M_START_END 상영시간,
+m.M_PRICE 티켓가격,
+o.O_CNT 예매수량
+from
+tbl_customer_02 c
+inner join tbl_movie_order_02 o
+on c.ID = o.O_ID
+inner join tbl_movie02 m
+on o.O_CODE = m.M_CODE</uniqueName>
+</TableSettings>

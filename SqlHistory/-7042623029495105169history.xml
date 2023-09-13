@@ -1,0 +1,24 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select
+store.STORE_NM 점포명,
+sum(case when sale.PAY_TYPE = 01 then sale.SALE_CNT * good.GOODS_PRICE END) 현금매출,
+--sum(case when sale. sale.SALE_CNT * good.GOODS_PRICE) 현금매출,
+sum(case when sale.PAY_TYPE = 02 then sale.SALE_CNT * good.GOODS_PRICE END) 카드매출,
+sum(sale.SALE_CNT * good.GOODS_PRICE) 총매출
+from
+GOODS_TBL_500 good
+inner join SALE_TBL_500 sale
+on good.GOODS_CD = sale.GOODS_CD
+inner join STORE_TBL_500 store
+on sale.STORE_CD = store.STORE_CD
+group by store.STORE_NM
+order by 총매출 desc;]]></sql>
+		<connection><![CDATA[db]]></connection>
+		<timestamp><![CDATA[1692605097439]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.0]]></execTime>
+	</historyItem>
+</history>

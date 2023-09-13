@@ -1,0 +1,14 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select * 
+from (select rownum num, m_id, m_name, m_tel, M_BIRTHDAY, M_POINT, M_GRADE
+from member_tbl_11)
+where num between 1 and 4;]]></sql>
+		<connection><![CDATA[db]]></connection>
+		<timestamp><![CDATA[1694402014900]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.003]]></execTime>
+	</historyItem>
+</history>

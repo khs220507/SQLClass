@@ -1,0 +1,30 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableSettings class="oracle.dbtools.raptor.controls.grid.RaptorGridPersistedSettings" xmlns="http://xmlns.oracle.com/jdeveloper/110000/Table-attributes">
+   <columnPositions class="java.util.ArrayList">
+      <Item class="java.lang.String">REGNO</Item>
+      <Item class="java.lang.String">REGTIME</Item>
+      <Item class="java.lang.String">REGDATE</Item>
+      <Item class="java.lang.String">CUSNO</Item>
+      <Item class="java.lang.String">STARTPOINT</Item>
+      <Item class="java.lang.String">DESTINATION</Item>
+      <Item class="java.lang.String">TAXINO</Item>
+      <Item class="java.lang.String">STATE</Item>
+   </columnPositions>
+   <columnWidths>
+      <Item>62</Item>
+      <Item>74</Item>
+      <Item>85</Item>
+      <Item>177</Item>
+      <Item>96</Item>
+      <Item>100</Item>
+      <Item>64</Item>
+      <Item>59</Item>
+   </columnWidths>
+   <searchParams class="java.util.ArrayList"/>
+   <sortClauses>
+      <Item class="java.lang.String">4 desc</Item>
+      <Item class="java.lang.String">4 asc</Item>
+      <Item/>
+   </sortClauses>
+   <uniqueName>IdeConnections%23dbselect * from tblcall_list</uniqueName>
+</TableSettings>

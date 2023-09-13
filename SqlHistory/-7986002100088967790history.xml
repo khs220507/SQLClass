@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select * from tblcall_list;]]></sql>
+		<connection><![CDATA[db]]></connection>
+		<timestamp><![CDATA[1693292878722]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[3]]></executed>
+		<execTime><![CDATA[0.015]]></execTime>
+	</historyItem>
+</history>

@@ -1,0 +1,21 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select
+c.S_ID "과목코드",
+c.S_NAME "과목명",
+c.S_GRADE "학점",
+l.T_NAME "담당강사",
+c.WEEKDAY "요일",
+c.START_H "시작시작",
+c.END_H "종료시간"
+from TBL_COURSE_300 c
+inner join TBL_LECTURER_300 l
+on c.TEACHER_ID = l.T_ID;]]></sql>
+		<connection><![CDATA[db]]></connection>
+		<timestamp><![CDATA[1692602134417]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.0]]></execTime>
+	</historyItem>
+</history>

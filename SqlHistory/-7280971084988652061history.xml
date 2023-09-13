@@ -1,0 +1,20 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select 
+cust.tel, call.regno,
+substr( lpad( call.regtime, 4, '0') , 1 ,2 )  || ':' || substr( lpad( call.regtime, 4, '0') , 3 ,2 ) 예약시간,
+to_char(call.REGDATE,'yyyy-mm-dd'), 
+cust.name, call.STARTPOINT, 
+call.DESTINATION, call.taxino, 
+decode(call.STATE, 'P', '배치완료', 'R', '배차준비', 'X', '배차미정')
+from tblcall_list call
+join tblcust cust
+on call.CUSNO = cust.id;]]></sql>
+		<connection><![CDATA[db]]></connection>
+		<timestamp><![CDATA[1693193594930]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.0]]></execTime>
+	</historyItem>
+</history>

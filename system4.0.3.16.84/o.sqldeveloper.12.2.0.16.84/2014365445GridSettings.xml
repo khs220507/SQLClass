@@ -1,0 +1,48 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableSettings class="oracle.dbtools.raptor.controls.grid.RaptorGridPersistedSettings" xmlns="http://xmlns.oracle.com/jdeveloper/110000/Table-attributes">
+   <columnPositions class="java.util.ArrayList">
+      <Item class="java.lang.String">GOODS_CD</Item>
+      <Item class="java.lang.String">GOODS_NM</Item>
+      <Item class="java.lang.String">GOODS_PRICE</Item>
+      <Item class="java.lang.String">COST</Item>
+      <Item class="java.lang.String">IN_DATE</Item>
+      <Item class="java.lang.String">SALE_NO</Item>
+      <Item class="java.lang.String">SALE_YMD</Item>
+      <Item class="java.lang.String">SALE_FG</Item>
+      <Item class="java.lang.String">STORE_CD</Item>
+      <Item class="java.lang.String">GOODS_CD_1</Item>
+      <Item class="java.lang.String">SALE_CNT</Item>
+      <Item class="java.lang.String">PAY_TYPE</Item>
+      <Item class="java.lang.String">STORE_CD_1</Item>
+      <Item class="java.lang.String">STORE_NM</Item>
+      <Item class="java.lang.String">STORE_FG</Item>
+   </columnPositions>
+   <columnWidths>
+      <Item>85</Item>
+      <Item>89</Item>
+      <Item>104</Item>
+      <Item>53</Item>
+      <Item>69</Item>
+      <Item>74</Item>
+      <Item>83</Item>
+      <Item>124</Item>
+      <Item>83</Item>
+      <Item>97</Item>
+      <Item>82</Item>
+      <Item>81</Item>
+      <Item>95</Item>
+      <Item>86</Item>
+      <Item>82</Item>
+   </columnWidths>
+   <searchParams class="java.util.ArrayList"/>
+   <sortClauses>
+      <Item/>
+   </sortClauses>
+   <uniqueName>IdeConnections%23dbselect *
+from
+GOODS_TBL_500 good
+inner join SALE_TBL_500 sale
+on good.GOODS_CD = sale.GOODS_CD
+inner join STORE_TBL_500 store
+on sale.STORE_CD = store.STORE_CD</uniqueName>
+</TableSettings>

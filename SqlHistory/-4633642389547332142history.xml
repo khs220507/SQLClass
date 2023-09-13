@@ -1,0 +1,19 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select
+store.STORE_NM 점포명,
+decode(sale.PAY_TYPE, '01', '현금매출','02','카드매출') 현금매출
+from
+GOODS_TBL_500 goods
+inner join SALE_TBL_500 sale
+on goods.GOODS_CD = sale.GOODS_CD
+inner join STORE_TBL_500 store
+on sale.STORE_CD = store.STORE_CD;]]></sql>
+		<connection><![CDATA[db]]></connection>
+		<timestamp><![CDATA[1692604136954]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.0]]></execTime>
+	</historyItem>
+</history>

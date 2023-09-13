@@ -1,0 +1,18 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select
+s.ARTISTID "참가자ID",
+j.JOIN_NM "참가자이름"
+from TBL_SCORE_200 s
+inner join TBL_MENTOR_200 m
+on s.MENTORID = m.MENTOR_ID
+inner join TBL_JOIN_200 j
+on j.JOIN_ID = s.ARTISTID;]]></sql>
+		<connection><![CDATA[db]]></connection>
+		<timestamp><![CDATA[1692601118031]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.0]]></execTime>
+	</historyItem>
+</history>

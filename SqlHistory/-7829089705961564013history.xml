@@ -1,0 +1,16 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select JOIN_ID "참가자ID", 
+JOIN_NM "참가자이름",
+to_char(to_date(BIRTH), '""yyyy"년"mm"월"dd"일"') "생년월일",
+decode(GENDER, 'M', '남자', '여자') "성별", 
+SPECIALTY "실력무대", CHARM "매력무대"
+from TBL_JOIN_200;]]></sql>
+		<connection><![CDATA[db]]></connection>
+		<timestamp><![CDATA[1692599925274]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.01]]></execTime>
+	</historyItem>
+</history>

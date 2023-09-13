@@ -1,0 +1,2591 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<ide:preferences xmlns:ide="http://xmlns.oracle.com/ide/hash">
+   <hash n="CodeEditorBookmarkOptions">
+      <list n="persistedBookmarks"/>
+   </hash>
+   <hash n="CodingStyleSQLPreferences">
+      <value n="profilename" v="1:이전 환경설정"/>
+   </hash>
+   <hash n="CodingStyleSQLProfiles">
+      <hash n="1:SQL">
+         <value n="alignAs" v="true"/>
+         <value n="alignComma" v="false"/>
+         <value n="alignComment" v="true"/>
+         <value n="alignConcat" v="true"/>
+         <value n="alignDecl" v="true"/>
+         <value n="alignEqual" v="true"/>
+         <value n="alignKeyword" v="false"/>
+         <value n="alignOperator" v="true"/>
+         <value n="bracketSpacing" v="0"/>
+         <value n="bracketSpacingAndOrWhen" v="true"/>
+         <value n="breakAfterAnd" v="false"/>
+         <value n="breakAfterComma" v="true"/>
+         <value n="breakAfterConcat" v="false"/>
+         <value n="breakBeforeAnd" v="true"/>
+         <value n="breakBeforeComma" v="false"/>
+         <value n="breakBeforeComment" v="false"/>
+         <value n="breakBeforeConcat" v="true"/>
+         <value n="breakCase" v="true"/>
+         <value n="breakCaseAndOr" v="true"/>
+         <value n="breakCaseElse" v="true"/>
+         <value n="breakCaseThen" v="true"/>
+         <value n="breakCaseWhen" v="true"/>
+         <value n="breakJoin" v="true"/>
+         <value n="breakKeyword" v="true"/>
+         <value n="breakSchema" v="0"/>
+         <value n="breakSelectBracket" v="true"/>
+         <value n="colored" v="false"/>
+         <value n="commaSpacing" v="0"/>
+         <value n="dblIndent" v="false"/>
+         <value n="forceDifference" v="true"/>
+         <value n="indentAnd" v="false"/>
+         <value n="lineNum" v="10"/>
+         <value n="lineWidth" v="80"/>
+         <value n="moreSpaces" v="false"/>
+         <value n="numCommas" v="1"/>
+         <value n="numSpaces" v="2"/>
+         <value n="operatorSpacing" v="0"/>
+         <value n="preserveNewlines" v="0"/>
+         <value n="profile.name" v="SQL"/>
+         <value n="quoteChar" v="0"/>
+         <value n="replaceComment" v="false"/>
+         <value n="smallSql" v="20"/>
+         <value n="sourceSql" v="1"/>
+         <value n="sqlsourceCopied" v="false"/>
+         <value n="sqlSourceEnclosed" v="0"/>
+         <value n="suppressComment" v="false"/>
+         <value n="targetSql" v="0"/>
+         <value n="uppercase" v="0"/>
+         <value n="useTab" v="false"/>
+      </hash>
+      <hash n="1:이전 환경설정">
+         <value n="alignAs" v="true"/>
+         <value n="alignComma" v="false"/>
+         <value n="alignComment" v="true"/>
+         <value n="alignConcat" v="true"/>
+         <value n="alignDecl" v="true"/>
+         <value n="alignEqual" v="true"/>
+         <value n="alignKeyword" v="false"/>
+         <value n="alignOperator" v="true"/>
+         <value n="bracketSpacing" v="0"/>
+         <value n="bracketSpacingAndOrWhen" v="false"/>
+         <value n="breakAfterAnd" v="false"/>
+         <value n="breakAfterComma" v="true"/>
+         <value n="breakAfterConcat" v="false"/>
+         <value n="breakBeforeAnd" v="true"/>
+         <value n="breakBeforeComma" v="false"/>
+         <value n="breakBeforeComment" v="false"/>
+         <value n="breakBeforeConcat" v="true"/>
+         <value n="breakCase" v="true"/>
+         <value n="breakCaseAndOr" v="true"/>
+         <value n="breakCaseElse" v="true"/>
+         <value n="breakCaseThen" v="true"/>
+         <value n="breakCaseWhen" v="true"/>
+         <value n="breakJoin" v="true"/>
+         <value n="breakKeyword" v="false"/>
+         <value n="breakSelectBracket" v="false"/>
+         <value n="colored" v="false"/>
+         <value n="commaSpacing" v="0"/>
+         <value n="dblIndent" v="false"/>
+         <value n="forceDifference" v="true"/>
+         <value n="indentAnd" v="false"/>
+         <value n="lineNum" v="999"/>
+         <value n="lineWidth" v="999"/>
+         <value n="moreSpaces" v="false"/>
+         <value n="numCommas" v="1"/>
+         <value n="numSpaces" v="2"/>
+         <value n="operatorSpacing" v="0"/>
+         <value n="preserveNewlines" v="0"/>
+         <value n="profile.name" v="이전 환경설정"/>
+         <value n="quoteChar" v="0"/>
+         <value n="replaceComment" v="false"/>
+         <value n="smallSql" v="80"/>
+         <value n="sourceEscape" v="0"/>
+         <value n="sourceSql" v="1"/>
+         <value n="sqlsourceCopied" v="false"/>
+         <value n="sqlSourceEnclosed" v="0"/>
+         <value n="suppressComment" v="false"/>
+         <value n="targetSql" v="0"/>
+         <value n="uppercase" v="0"/>
+         <value n="useTab" v="false"/>
+      </hash>
+      <hash n="2:SQL">
+         <value n="alignAs" v="true"/>
+         <value n="alignComma" v="false"/>
+         <value n="alignComment" v="true"/>
+         <value n="alignConcat" v="true"/>
+         <value n="alignDecl" v="true"/>
+         <value n="alignEqual" v="true"/>
+         <value n="alignKeyword" v="false"/>
+         <value n="alignOperator" v="true"/>
+         <value n="bracketSpacing" v="0"/>
+         <value n="bracketSpacingAndOrWhen" v="true"/>
+         <value n="breakAfterAnd" v="false"/>
+         <value n="breakAfterComma" v="true"/>
+         <value n="breakAfterConcat" v="false"/>
+         <value n="breakBeforeAnd" v="true"/>
+         <value n="breakBeforeComma" v="false"/>
+         <value n="breakBeforeComment" v="false"/>
+         <value n="breakBeforeConcat" v="true"/>
+         <value n="breakCase" v="true"/>
+         <value n="breakCaseAndOr" v="true"/>
+         <value n="breakCaseElse" v="true"/>
+         <value n="breakCaseThen" v="true"/>
+         <value n="breakCaseWhen" v="true"/>
+         <value n="breakJoin" v="true"/>
+         <value n="breakKeyword" v="true"/>
+         <value n="breakSchema" v="0"/>
+         <value n="breakSelectBracket" v="true"/>
+         <value n="colored" v="false"/>
+         <value n="commaSpacing" v="0"/>
+         <value n="dblIndent" v="false"/>
+         <value n="forceDifference" v="true"/>
+         <value n="indentAnd" v="false"/>
+         <value n="lineNum" v="10"/>
+         <value n="lineWidth" v="80"/>
+         <value n="moreSpaces" v="false"/>
+         <value n="numCommas" v="1"/>
+         <value n="numSpaces" v="2"/>
+         <value n="operatorSpacing" v="0"/>
+         <value n="preserveNewlines" v="0"/>
+         <value n="profile.name" v="SQL"/>
+         <value n="quoteChar" v="0"/>
+         <value n="replaceComment" v="false"/>
+         <value n="smallSql" v="20"/>
+         <value n="sourceSql" v="2"/>
+         <value n="sqlsourceCopied" v="false"/>
+         <value n="sqlSourceEnclosed" v="0"/>
+         <value n="suppressComment" v="false"/>
+         <value n="targetSql" v="0"/>
+         <value n="uppercase" v="0"/>
+         <value n="useTab" v="false"/>
+      </hash>
+      <hash n="3:SQL">
+         <value n="alignAs" v="true"/>
+         <value n="alignComma" v="false"/>
+         <value n="alignComment" v="true"/>
+         <value n="alignConcat" v="true"/>
+         <value n="alignDecl" v="true"/>
+         <value n="alignEqual" v="true"/>
+         <value n="alignKeyword" v="false"/>
+         <value n="alignOperator" v="true"/>
+         <value n="bracketSpacing" v="0"/>
+         <value n="bracketSpacingAndOrWhen" v="true"/>
+         <value n="breakAfterAnd" v="false"/>
+         <value n="breakAfterComma" v="true"/>
+         <value n="breakAfterConcat" v="false"/>
+         <value n="breakBeforeAnd" v="true"/>
+         <value n="breakBeforeComma" v="false"/>
+         <value n="breakBeforeComment" v="false"/>
+         <value n="breakBeforeConcat" v="true"/>
+         <value n="breakCase" v="true"/>
+         <value n="breakCaseAndOr" v="true"/>
+         <value n="breakCaseElse" v="true"/>
+         <value n="breakCaseThen" v="true"/>
+         <value n="breakCaseWhen" v="true"/>
+         <value n="breakJoin" v="true"/>
+         <value n="breakKeyword" v="true"/>
+         <value n="breakSchema" v="0"/>
+         <value n="breakSelectBracket" v="true"/>
+         <value n="colored" v="false"/>
+         <value n="commaSpacing" v="0"/>
+         <value n="dblIndent" v="false"/>
+         <value n="forceDifference" v="true"/>
+         <value n="indentAnd" v="false"/>
+         <value n="lineNum" v="10"/>
+         <value n="lineWidth" v="80"/>
+         <value n="moreSpaces" v="false"/>
+         <value n="numCommas" v="1"/>
+         <value n="numSpaces" v="2"/>
+         <value n="operatorSpacing" v="0"/>
+         <value n="preserveNewlines" v="0"/>
+         <value n="profile.name" v="SQL"/>
+         <value n="quoteChar" v="0"/>
+         <value n="replaceComment" v="false"/>
+         <value n="smallSql" v="20"/>
+         <value n="sourceSql" v="3"/>
+         <value n="sqlsourceCopied" v="false"/>
+         <value n="sqlSourceEnclosed" v="0"/>
+         <value n="suppressComment" v="false"/>
+         <value n="targetSql" v="0"/>
+         <value n="uppercase" v="0"/>
+         <value n="useTab" v="false"/>
+      </hash>
+      <hash n="4:SQL">
+         <value n="alignAs" v="true"/>
+         <value n="alignComma" v="false"/>
+         <value n="alignComment" v="true"/>
+         <value n="alignConcat" v="true"/>
+         <value n="alignDecl" v="true"/>
+         <value n="alignEqual" v="true"/>
+         <value n="alignKeyword" v="false"/>
+         <value n="alignOperator" v="true"/>
+         <value n="bracketSpacing" v="0"/>
+         <value n="bracketSpacingAndOrWhen" v="true"/>
+         <value n="breakAfterAnd" v="false"/>
+         <value n="breakAfterComma" v="true"/>
+         <value n="breakAfterConcat" v="false"/>
+         <value n="breakBeforeAnd" v="true"/>
+         <value n="breakBeforeComma" v="false"/>
+         <value n="breakBeforeComment" v="false"/>
+         <value n="breakBeforeConcat" v="true"/>
+         <value n="breakCase" v="true"/>
+         <value n="breakCaseAndOr" v="true"/>
+         <value n="breakCaseElse" v="true"/>
+         <value n="breakCaseThen" v="true"/>
+         <value n="breakCaseWhen" v="true"/>
+         <value n="breakJoin" v="true"/>
+         <value n="breakKeyword" v="true"/>
+         <value n="breakSchema" v="0"/>
+         <value n="breakSelectBracket" v="true"/>
+         <value n="colored" v="false"/>
+         <value n="commaSpacing" v="0"/>
+         <value n="dblIndent" v="false"/>
+         <value n="forceDifference" v="true"/>
+         <value n="indentAnd" v="false"/>
+         <value n="lineNum" v="10"/>
+         <value n="lineWidth" v="80"/>
+         <value n="moreSpaces" v="false"/>
+         <value n="numCommas" v="1"/>
+         <value n="numSpaces" v="2"/>
+         <value n="operatorSpacing" v="0"/>
+         <value n="preserveNewlines" v="0"/>
+         <value n="profile.name" v="SQL"/>
+         <value n="quoteChar" v="0"/>
+         <value n="replaceComment" v="false"/>
+         <value n="smallSql" v="20"/>
+         <value n="sourceSql" v="4"/>
+         <value n="sqlsourceCopied" v="false"/>
+         <value n="sqlSourceEnclosed" v="0"/>
+         <value n="suppressComment" v="false"/>
+         <value n="targetSql" v="0"/>
+         <value n="uppercase" v="0"/>
+         <value n="useTab" v="false"/>
+      </hash>
+      <hash n="5:SQL">
+         <value n="alignAs" v="true"/>
+         <value n="alignComma" v="false"/>
+         <value n="alignComment" v="true"/>
+         <value n="alignConcat" v="true"/>
+         <value n="alignDecl" v="true"/>
+         <value n="alignEqual" v="true"/>
+         <value n="alignKeyword" v="false"/>
+         <value n="alignOperator" v="true"/>
+         <value n="bracketSpacing" v="0"/>
+         <value n="bracketSpacingAndOrWhen" v="true"/>
+         <value n="breakAfterAnd" v="false"/>
+         <value n="breakAfterComma" v="true"/>
+         <value n="breakAfterConcat" v="false"/>
+         <value n="breakBeforeAnd" v="true"/>
+         <value n="breakBeforeComma" v="false"/>
+         <value n="breakBeforeComment" v="false"/>
+         <value n="breakBeforeConcat" v="true"/>
+         <value n="breakCase" v="true"/>
+         <value n="breakCaseAndOr" v="true"/>
+         <value n="breakCaseElse" v="true"/>
+         <value n="breakCaseThen" v="true"/>
+         <value n="breakCaseWhen" v="true"/>
+         <value n="breakJoin" v="true"/>
+         <value n="breakKeyword" v="true"/>
+         <value n="breakSchema" v="0"/>
+         <value n="breakSelectBracket" v="true"/>
+         <value n="colored" v="false"/>
+         <value n="commaSpacing" v="0"/>
+         <value n="dblIndent" v="false"/>
+         <value n="forceDifference" v="true"/>
+         <value n="indentAnd" v="false"/>
+         <value n="lineNum" v="10"/>
+         <value n="lineWidth" v="80"/>
+         <value n="moreSpaces" v="false"/>
+         <value n="numCommas" v="1"/>
+         <value n="numSpaces" v="2"/>
+         <value n="operatorSpacing" v="0"/>
+         <value n="preserveNewlines" v="0"/>
+         <value n="profile.name" v="SQL"/>
+         <value n="quoteChar" v="0"/>
+         <value n="replaceComment" v="false"/>
+         <value n="smallSql" v="20"/>
+         <value n="sourceSql" v="5"/>
+         <value n="sqlsourceCopied" v="false"/>
+         <value n="sqlSourceEnclosed" v="0"/>
+         <value n="suppressComment" v="false"/>
+         <value n="targetSql" v="0"/>
+         <value n="uppercase" v="0"/>
+         <value n="useTab" v="false"/>
+      </hash>
+      <hash n="6:SQL">
+         <value n="alignAs" v="true"/>
+         <value n="alignComma" v="false"/>
+         <value n="alignComment" v="true"/>
+         <value n="alignConcat" v="true"/>
+         <value n="alignDecl" v="true"/>
+         <value n="alignEqual" v="true"/>
+         <value n="alignKeyword" v="false"/>
+         <value n="alignOperator" v="true"/>
+         <value n="bracketSpacing" v="0"/>
+         <value n="bracketSpacingAndOrWhen" v="true"/>
+         <value n="breakAfterAnd" v="false"/>
+         <value n="breakAfterComma" v="true"/>
+         <value n="breakAfterConcat" v="false"/>
+         <value n="breakBeforeAnd" v="true"/>
+         <value n="breakBeforeComma" v="false"/>
+         <value n="breakBeforeComment" v="false"/>
+         <value n="breakBeforeConcat" v="true"/>
+         <value n="breakCase" v="true"/>
+         <value n="breakCaseAndOr" v="true"/>
+         <value n="breakCaseElse" v="true"/>
+         <value n="breakCaseThen" v="true"/>
+         <value n="breakCaseWhen" v="true"/>
+         <value n="breakJoin" v="true"/>
+         <value n="breakKeyword" v="true"/>
+         <value n="breakSchema" v="0"/>
+         <value n="breakSelectBracket" v="true"/>
+         <value n="colored" v="false"/>
+         <value n="commaSpacing" v="0"/>
+         <value n="dblIndent" v="false"/>
+         <value n="forceDifference" v="true"/>
+         <value n="indentAnd" v="false"/>
+         <value n="lineNum" v="10"/>
+         <value n="lineWidth" v="80"/>
+         <value n="moreSpaces" v="false"/>
+         <value n="numCommas" v="1"/>
+         <value n="numSpaces" v="2"/>
+         <value n="operatorSpacing" v="0"/>
+         <value n="preserveNewlines" v="0"/>
+         <value n="profile.name" v="SQL"/>
+         <value n="quoteChar" v="0"/>
+         <value n="replaceComment" v="false"/>
+         <value n="smallSql" v="20"/>
+         <value n="sourceSql" v="6"/>
+         <value n="sqlsourceCopied" v="false"/>
+         <value n="sqlSourceEnclosed" v="0"/>
+         <value n="suppressComment" v="false"/>
+         <value n="targetSql" v="0"/>
+         <value n="uppercase" v="0"/>
+         <value n="useTab" v="false"/>
+      </hash>
+   </hash>
+   <value n="db.system.id" v="037bc304-671b-454e-990c-7511da3bbb04"/>
+   <hash n="DBConfig">
+      <hash n="EXTENSION"/>
+      <value n="INDENT_CACHE_NUMBER" v="2"/>
+      <value n="INDENT_CACHE_USE_TAB" v="false"/>
+   </hash>
+   <hash n="DisplayOptions">
+      <value n="rightMarginColumnAtWrap" v="false"/>
+   </hash>
+   <hash n="FindOptions">
+      <list n="replaceHistoryList">
+         <string v=""/>
+      </list>
+      <list n="searchHistoryList">
+         <string v="genre"/>
+         <string v="gerne"/>
+         <string v="m001"/>
+         <string v="m007"/>
+         <string v="check"/>
+         <string v="분식만들기"/>
+         <string v="등급"/>
+         <string v="참가자"/>
+         <string v="to_date"/>
+         <string v="ARTISTID"/>
+         <string v="rank"/>
+         <string v="char"/>
+         <string v="TO_char"/>
+         <string v="roll"/>
+         <string v="DEPTNO"/>
+         <string v="to_Char"/>
+      </list>
+      <value n="searchSelectedOnly" v="false"/>
+   </hash>
+   <hash n="FontSizeOptions">
+      <value n="fontSize" v="16"/>
+   </hash>
+   <hash n="HelpOptions">
+      <value n="helpCenterWindowOpen" v="false"/>
+   </hash>
+   <hash n="oracle.bali.xml.add.schema.SchemaOptionsPrefs">
+      <list n="schemaMapList"/>
+   </hash>
+   <hash n="oracle.ide.hover.HoverOptions">
+      <value n="flavorEnabled-데이터 값" v="true"/>
+      <value n="flavorEnabled-설명서" v="true"/>
+      <value n="flavorEnabled-소스" v="true"/>
+      <value n="flavorEnabled-오류 및 경고" v="true"/>
+      <value n="flavorEnabled-정보" v="true"/>
+      <list n="flavorPriority">
+         <string v="data"/>
+         <string v="info"/>
+         <string v="errors"/>
+         <string v="doc"/>
+         <string v="source"/>
+      </list>
+      <value n="flavorShortcut-데이터 값" v="NONE"/>
+      <value n="flavorShortcut-설명서" v="NONE ALT"/>
+      <value n="flavorShortcut-소스" v="NONE SHIFT"/>
+      <value n="flavorShortcut-오류 및 경고" v="NONE"/>
+      <value n="flavorShortcut-정보" v="NONE"/>
+   </hash>
+   <hash n="oracle.ideimpl.db.DatabaseIdePreferences">
+      <value n="ConnectionPanelUI.LAST_CONNECTION_KEY" v="IdeConnections%23db"/>
+   </hash>
+   <hash n="oracle.ideimpl.usages.UsagesPrefs">
+      <value n="track-usages" v="true"/>
+   </hash>
+   <hash n="oracle.ideimpl.webupdate.CheckForUpdatesPreferences">
+      <value n="instanceGuid" v="01e1f0da-018a-1000-8001-c0a800f4af5d"/>
+      <value n="lastError" v="Received fatal alert: protocol_version"/>
+      <value n="lastErrorType" v="generic"/>
+      <hash n="pingedVersions">
+         <list n="4.0.3.16.84">
+            <string v="http://www.oracle.com/technology/software/products/sql/master.xml"/>
+         </list>
+      </hash>
+   </hash>
+   <hash n="proxy-options">
+      <value n="IsIdeProxy" v="true"/>
+      <value n="proxyType" v="SYSTEM_PROXY"/>
+   </hash>
+   <hash n="SaveActionsOptions">
+      <value n="migratedSaveActions" v="true"/>
+   </hash>
+   <hash n="SyntaxColorsOptions">
+      <value n="firstTime" v="false"/>
+      <value n="migrated" v="true"/>
+      <value n="selectedScheme" v="Default"/>
+      <list n="styleList">
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="base-plain-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-8355712"/>
+            <value n="styleName" v="base-comment-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="false"/>
+            <value n="useParentFontStyle" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="1"/>
+            <value n="foregroundRGB" v="-13408615"/>
+            <value n="styleName" v="base-keyword-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="false"/>
+            <value n="useParentFontStyle" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16763956"/>
+            <value n="styleName" v="base-string-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="false"/>
+            <value n="useParentFontStyle" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16751104"/>
+            <value n="styleName" v="base-number-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="false"/>
+            <value n="useParentFontStyle" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="base-identifier-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="base-brace-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="base-operator-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16750951"/>
+            <value n="styleName" v="base-markup-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="false"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="1"/>
+            <value n="foregroundRGB" v="-16750951"/>
+            <value n="styleName" v="base-element-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="false"/>
+            <value n="useParentFontStyle" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-6750208"/>
+            <value n="styleName" v="base-attribute-name-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="false"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16763956"/>
+            <value n="styleName" v="base-attribute-value-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="false"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-8355712"/>
+            <value n="styleName" v="java-comment-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16763956"/>
+            <value n="styleName" v="java-string-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="1"/>
+            <value n="foregroundRGB" v="-13408615"/>
+            <value n="styleName" v="java-keyword-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-6724096"/>
+            <value n="styleName" v="java-literals-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="false"/>
+            <value n="useParentFontStyle" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16751104"/>
+            <value n="styleName" v="java-number-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="java-identifier-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="java-operator-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="java-brace-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16738048"/>
+            <value n="styleName" v="java-sqlj-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="false"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16763956"/>
+            <value n="styleName" v="javadoc-comment-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="false"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16763956"/>
+            <value n="styleName" v="javadoc-tag-text-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="1"/>
+            <value n="foregroundRGB" v="-16763956"/>
+            <value n="styleName" v="javadoc-tag-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-8355712"/>
+            <value n="styleName" v="html-comment-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16750951"/>
+            <value n="styleName" v="html-symbol-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="1"/>
+            <value n="foregroundRGB" v="-16750951"/>
+            <value n="styleName" v="html-element-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-6750208"/>
+            <value n="styleName" v="html-attribute-name-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16763956"/>
+            <value n="styleName" v="html-attribute-value-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-8355712"/>
+            <value n="styleName" v="plsql-comment-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16763956"/>
+            <value n="styleName" v="plsql-string-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="1"/>
+            <value n="foregroundRGB" v="-13408615"/>
+            <value n="styleName" v="plsql-keyword-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="plsql-identifier-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16751104"/>
+            <value n="styleName" v="plsql-number-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="plsql-brace-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="plsql-operator-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-8355712"/>
+            <value n="styleName" v="properties-comment-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-6750208"/>
+            <value n="styleName" v="properties-name-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16763956"/>
+            <value n="styleName" v="properties-value-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-8355712"/>
+            <value n="styleName" v="idl-comment-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16763956"/>
+            <value n="styleName" v="idl-string-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="1"/>
+            <value n="foregroundRGB" v="-13408615"/>
+            <value n="styleName" v="idl-keyword-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="idl-identifier-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16751104"/>
+            <value n="styleName" v="idl-number-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="idl-brace-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="idl-operator-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-8355712"/>
+            <value n="styleName" v="c++-comment-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16763956"/>
+            <value n="styleName" v="c++-string-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="1"/>
+            <value n="foregroundRGB" v="-13408615"/>
+            <value n="styleName" v="c++-keyword-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="c++-identifier-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16751104"/>
+            <value n="styleName" v="c++-number-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="c++-brace-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="c++-operator-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="js-comment-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="js-string-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="js-keyword-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="js-identifier-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="js-number-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="js-brace-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="js-operator-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="js-regex-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-8355712"/>
+            <value n="styleName" v="json-comment-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="false"/>
+            <value n="useParentFontStyle" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-6750208"/>
+            <value n="styleName" v="json-name-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="false"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16763956"/>
+            <value n="styleName" v="json-value-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="false"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16751104"/>
+            <value n="styleName" v="json-number-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="false"/>
+            <value n="useParentFontStyle" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="json-brace-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="1"/>
+            <value n="foregroundRGB" v="-13408615"/>
+            <value n="styleName" v="json-constants-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="false"/>
+            <value n="useParentFontStyle" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="json-separators-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-8355712"/>
+            <value n="styleName" v="xml-comment-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="xml-declaration-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="false"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16750951"/>
+            <value n="styleName" v="xml-symbol-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="1"/>
+            <value n="foregroundRGB" v="-16750951"/>
+            <value n="styleName" v="xml-element-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-6750208"/>
+            <value n="styleName" v="xml-attribute-name-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16763956"/>
+            <value n="styleName" v="xml-attribute-value-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="xml-cdata-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="xml-text-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-8355712"/>
+            <value n="styleName" v="xml-processing-instruction-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="false"/>
+            <value n="useParentFontStyle" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-8355712"/>
+            <value n="styleName" v="css-comment-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="3"/>
+            <value n="foregroundRGB" v="-10079488"/>
+            <value n="styleName" v="css-at-rule-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="false"/>
+            <value n="useParentFontStyle" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="1"/>
+            <value n="foregroundRGB" v="-16750951"/>
+            <value n="styleName" v="css-selector-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16750951"/>
+            <value n="styleName" v="css-property-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="false"/>
+            <value n="useParentFontStyle" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="2"/>
+            <value n="foregroundRGB" v="-65536"/>
+            <value n="styleName" v="css-error-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="false"/>
+            <value n="useParentFontStyle" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="1"/>
+            <value n="foregroundRGB" v="-16776961"/>
+            <value n="styleName" v="css-identifier-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="false"/>
+            <value n="useParentFontStyle" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16751104"/>
+            <value n="styleName" v="css-unit-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16763956"/>
+            <value n="styleName" v="css-string-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-6736948"/>
+            <value n="styleName" v="css-function-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="false"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="1"/>
+            <value n="foregroundRGB" v="-65536"/>
+            <value n="styleName" v="css-important-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="false"/>
+            <value n="useParentFontStyle" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16750951"/>
+            <value n="styleName" v="css-medium-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="false"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-6736948"/>
+            <value n="styleName" v="css-uri-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="false"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="xquery-keyword-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="xquery-comment-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="xquery-variable-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="xquery-string-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="xquery-operator-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="xquery-number-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="xquery-brace-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-3342337"/>
+            <value n="enabled" v="false"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="20"/>
+            <value n="styleName" v="bookmark-style"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="true"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-6697729"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="priority" v="80"/>
+            <value n="styleName" v="brace-match1-highlight"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="true"/>
+            <value n="useFG" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-13395508"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="priority" v="80"/>
+            <value n="styleName" v="brace-match2-highlight"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="true"/>
+            <value n="useFG" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-65536"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="priority" v="80"/>
+            <value n="styleName" v="brace-mismatch-highlight"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="true"/>
+            <value n="useFG" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-10497"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="priority" v="77"/>
+            <value n="styleName" v="find-results-highlight"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="true"/>
+            <value n="useFG" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1822"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="10"/>
+            <value n="styleName" v="caret-line-highlight"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="true"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-13108"/>
+            <value n="enabled" v="false"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="priority" v="25"/>
+            <value n="styleName" v="disabled-breakpoint"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="true"/>
+            <value n="useFG" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-13108"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="30"/>
+            <value n="styleName" v="enabled-breakpoint"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="true"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-6697729"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="40"/>
+            <value n="styleName" v="execution-point"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="true"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="2"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="99"/>
+            <value n="styleName" v="folded-block-highlight"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-2171137"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="100"/>
+            <value n="styleName" v="folding-fade-highlight"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="true"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-13408615"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-1"/>
+            <value n="priority" v="100"/>
+            <value n="styleName" v="highlight-selection"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="true"/>
+            <value n="useFG" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-65281"/>
+            <value n="priority" v="20"/>
+            <value n="styleName" v="todo-style"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1579033"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="75"/>
+            <value n="styleName" v="tab-field"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="true"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-4144960"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="75"/>
+            <value n="styleName" v="template-current-field"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="true"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-75"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="priority" v="75"/>
+            <value n="styleName" v="code-highlight"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="true"/>
+            <value n="useFG" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-10686"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="priority" v="76"/>
+            <value n="styleName" v="code-highlight-secondary"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="true"/>
+            <value n="useFG" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-13026965"/>
+            <value n="styleName" v="base-attribute-header-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="false"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16711936"/>
+            <value n="styleName" v="base-attribute-addition-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="false"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-57055"/>
+            <value n="styleName" v="base-attribute-removal-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="false"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-13026965"/>
+            <value n="styleName" v="diff-header-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16711936"/>
+            <value n="styleName" v="diff-addition-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-57055"/>
+            <value n="styleName" v="diff-removal-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-12566464"/>
+            <value n="styleName" v="xml-document-type-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="false"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-8355712"/>
+            <value n="styleName" v="olapdml-comment-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16763956"/>
+            <value n="styleName" v="olapdml-string-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="1"/>
+            <value n="foregroundRGB" v="-13408615"/>
+            <value n="styleName" v="olapdml-keyword-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="olapdml-identifier-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16751104"/>
+            <value n="styleName" v="olapdml-number-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="olapdml-brace-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="olapdml-operator-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-8355712"/>
+            <value n="styleName" v="olapi-comment-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16763956"/>
+            <value n="styleName" v="olapi-string-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="1"/>
+            <value n="foregroundRGB" v="-13408615"/>
+            <value n="styleName" v="olapi-keyword-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="olapi-identifier-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16751104"/>
+            <value n="styleName" v="olapi-number-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="olapi-brace-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="styleName" v="olapi-operator-style"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="true"/>
+            <value n="useParentFG" v="true"/>
+            <value n="useParentFontStyle" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16776961"/>
+            <value n="styleName" v="class oracle.dbtools.worksheet.editor.ClickableScriptErrorPlugin-COMP_STYLE"/>
+            <value n="type" v="style"/>
+            <value n="useParentBG" v="false"/>
+            <value n="useParentFG" v="false"/>
+            <value n="useParentFontStyle" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-2697473"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="priority" v="79"/>
+            <value n="styleName" v="enclosing-parens-highlight"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="true"/>
+            <value n="useFG" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1059073"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="priority" v="79"/>
+            <value n="styleName" v="enclosing-block-highlight"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="true"/>
+            <value n="useFG" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1644826"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="90"/>
+            <value n="styleName" v="guarded-highlight"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="true"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-3211314"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="priority" v="20"/>
+            <value n="styleName" v="inline-compare-addition"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="true"/>
+            <value n="useFG" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-12594"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="priority" v="20"/>
+            <value n="styleName" v="inline-compare-deletion"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="true"/>
+            <value n="useFG" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-3223809"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="priority" v="20"/>
+            <value n="styleName" v="inline-compare-update"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="true"/>
+            <value n="useFG" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-6488164"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="priority" v="100"/>
+            <value n="styleName" v="inline-character-compare-addition"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="true"/>
+            <value n="useFG" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-25444"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="priority" v="100"/>
+            <value n="styleName" v="inline-character-compare-deletion"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="true"/>
+            <value n="useFG" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-1"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="priority" v="100"/>
+            <value n="styleName" v="inline-character-compare-update"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="true"/>
+            <value n="useFG" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-12594"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="priority" v="20"/>
+            <value n="styleName" v="inline-compare-conflict"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="true"/>
+            <value n="useFG" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-3211314"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="priority" v="20"/>
+            <value n="styleName" v="inline-compare-resolved"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="true"/>
+            <value n="useFG" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-3223858"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="priority" v="20"/>
+            <value n="styleName" v="inline-compare-unchosen"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="true"/>
+            <value n="useFG" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="50"/>
+            <value n="styleName" v="inline-block-highlight-style"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="-5263461"/>
+            <value n="underlineStyle" v="9"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="20"/>
+            <value n="styleName" v="inline-selected-block-highlight-style"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="-16777216"/>
+            <value n="underlineStyle" v="5"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="20"/>
+            <value n="styleName" v="inline-character-add-highlight-style"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="-16711936"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="20"/>
+            <value n="styleName" v="inline-character-delete_highlight-style"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="-65536"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16776961"/>
+            <value n="priority" v="70"/>
+            <value n="styleName" v="click-navigation"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="-16776961"/>
+            <value n="underlineStyle" v="0"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="50"/>
+            <value n="styleName" v="oracle.dbtools.raptor.phighlight.HighlightAddin-E"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="-65536"/>
+            <value n="underlineStyle" v="3"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="50"/>
+            <value n="styleName" v="oracle.dbtools.raptor.phighlight.HighlightAddin-W"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="-14336"/>
+            <value n="underlineStyle" v="3"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="50"/>
+            <value n="styleName" v="oracle.dbtools.raptor.phighlight.HighlightAddin-D"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="-65281"/>
+            <value n="underlineStyle" v="4"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="50"/>
+            <value n="styleName" v="oracle.dbtools.raptor.phighlight.HighlightAddin-J"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="-14336"/>
+            <value n="underlineStyle" v="4"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="50"/>
+            <value n="styleName" v="olapdml-error-highlight-style"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="-65281"/>
+            <value n="underlineStyle" v="4"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="50"/>
+            <value n="styleName" v="olapdml-warning-highlight-style"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="-14336"/>
+            <value n="underlineStyle" v="3"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="50"/>
+            <value n="styleName" v="olapdml-fatal-highlight-style"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="-65536"/>
+            <value n="underlineStyle" v="3"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="2"/>
+            <value n="styleName" v="syntaxbuilder.squiggly"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="-65536"/>
+            <value n="underlineStyle" v="4"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-9463605"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="100"/>
+            <value n="styleName" v="syntaxbuilder.inner_selection"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="true"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="60"/>
+            <value n="styleName" v="audit-error"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="-65536"/>
+            <value n="underlineStyle" v="4"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="55"/>
+            <value n="styleName" v="audit-warning"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="-10587"/>
+            <value n="underlineStyle" v="4"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="false"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="50"/>
+            <value n="styleName" v="audit-incomplete"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="-8355712"/>
+            <value n="underlineStyle" v="0"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="false"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="50"/>
+            <value n="styleName" v="audit-advisory"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="-8355712"/>
+            <value n="underlineStyle" v="0"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="54"/>
+            <value n="styleName" v="audit-deprecated"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="-9211021"/>
+            <value n="underlineStyle" v="10"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-9211021"/>
+            <value n="priority" v="52"/>
+            <value n="styleName" v="audit-unused"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-65281"/>
+            <value n="priority" v="52"/>
+            <value n="styleName" v="audit-todo"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="1"/>
+            <value n="foregroundRGB" v="-9210881"/>
+            <value n="priority" v="49"/>
+            <value n="styleName" v="audit-constant"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="false"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="60"/>
+            <value n="styleName" v="audit-interface"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="false"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="60"/>
+            <value n="styleName" v="audit-abstract-class"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="false"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="60"/>
+            <value n="styleName" v="audit-class"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-10197916"/>
+            <value n="priority" v="60"/>
+            <value n="styleName" v="audit-annotation"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="false"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="60"/>
+            <value n="styleName" v="audit-annotation-element"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="false"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="60"/>
+            <value n="styleName" v="audit-instance-method"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="2"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="60"/>
+            <value n="styleName" v="audit-static-method"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777024"/>
+            <value n="priority" v="60"/>
+            <value n="styleName" v="audit-instance-field"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="2"/>
+            <value n="foregroundRGB" v="-16777024"/>
+            <value n="priority" v="60"/>
+            <value n="styleName" v="audit-static-field"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="true"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="false"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="60"/>
+            <value n="styleName" v="audit-constructor"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="false"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="60"/>
+            <value n="styleName" v="audit-parameter"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="false"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="60"/>
+            <value n="styleName" v="audit-variable"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="50"/>
+            <value n="styleName" v="java-class-separator-style"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="-4144960"/>
+            <value n="underlineStyle" v="5"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="50"/>
+            <value n="styleName" v="java-member-separator-style"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="-4144960"/>
+            <value n="underlineStyle" v="9"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-256"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="75"/>
+            <value n="styleName" v="oracle.jdevimpl.refactoring.highlight.HighlightControler"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="true"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="50"/>
+            <value n="styleName" v="css-error-style"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="-65536"/>
+            <value n="underlineStyle" v="4"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="50"/>
+            <value n="styleName" v="css-style-separator-style"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="-4144960"/>
+            <value n="underlineStyle" v="5"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="50"/>
+            <value n="styleName" v="oracle.dbdev.phighlight.HighlightAddin-E"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="-65536"/>
+            <value n="underlineStyle" v="4"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="0"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="0"/>
+            <value n="priority" v="50"/>
+            <value n="styleName" v="oracle.dbdev.phighlight.HighlightAddin-W"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="-987136"/>
+            <value n="underlineStyle" v="4"/>
+            <value n="useBG" v="false"/>
+            <value n="useFG" v="false"/>
+         </hash>
+         <hash>
+            <value n="backgroundRGB" v="-14336"/>
+            <value n="enabled" v="true"/>
+            <value n="fontStyle" v="0"/>
+            <value n="foregroundRGB" v="-16777216"/>
+            <value n="priority" v="20"/>
+            <value n="styleName" v="profileStyle"/>
+            <value n="type" v="highlight"/>
+            <value n="underlineRGB" v="0"/>
+            <value n="underlineStyle" v="-1"/>
+            <value n="useBG" v="true"/>
+            <value n="useFG" v="true"/>
+         </hash>
+      </list>
+   </hash>
+   <hash n="WebBrowserOptions">
+      <value n="browserCmdLine" v="C:\Program Files\Mozilla Firefox\firefox.exe ${URL}"/>
+      <list n="browserIconList">
+         <string v="IE"/>
+         <string v="FIREFOX"/>
+         <string v="CHROME"/>
+      </list>
+      <list n="browserIsDefaultList">
+         <boolean v="false"/>
+         <boolean v="true"/>
+         <boolean v="false"/>
+      </list>
+      <list n="browserNameList">
+         <string v="Internet Explorer"/>
+         <string v="Firefox"/>
+         <string v="Chrome"/>
+      </list>
+      <list n="browserParamList">
+         <string v="${URL}"/>
+         <string v="${URL}"/>
+         <string v="${URL}"/>
+      </list>
+      <list n="browserPathList">
+         <string v="C:\Program Files\Internet Explorer\iexplore.exe"/>
+         <string v="C:\Program Files\Mozilla Firefox\firefox.exe"/>
+         <string v="C:\Program Files\Google\Chrome\Application\chrome.exe"/>
+      </list>
+      <value n="useEmbeddedBrowserForPreview" v="false"/>
+   </hash>
+</ide:preferences>

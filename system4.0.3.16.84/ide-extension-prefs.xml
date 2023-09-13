@@ -1,0 +1,12 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<ide:extension-preferences xmlns:ide="http://xmlns.oracle.com/ide/hash">
+   <list n="featuresToReloadAtStartup">
+      <string v="oracle.sqldeveloper.dbanavigator"/>
+      <string v="oracle.dmt.dataminer"/>
+      <string v="oracle.sqldeveloper.scheduler"/>
+      <string v="oracle.sqldeveloper.timesten"/>
+      <string v="oracle.olap"/>
+      <string v="oracle.sqldeveloper.snippet"/>
+      <string v="oracle.sqldeveloper.xmlschema"/>
+   </list>
+</ide:extension-preferences>

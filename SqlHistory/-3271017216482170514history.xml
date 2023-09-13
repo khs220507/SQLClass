@@ -1,0 +1,14 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select * from
+GOODS_TBL_500 goods
+inner join SALE_TBL_500 sale
+on goods.GOODS_CD = sale.GOODS_CD;]]></sql>
+		<connection><![CDATA[db]]></connection>
+		<timestamp><![CDATA[1692603767644]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.016]]></execTime>
+	</historyItem>
+</history>

@@ -1,0 +1,16 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select * from
+tbl_customer c
+inner join tbl_movie_order o
+on c.ID = o.O_ID
+inner join movie m
+on o.O_CODE = m.M_CODE;]]></sql>
+		<connection><![CDATA[db]]></connection>
+		<timestamp><![CDATA[1692758815416]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[3]]></executed>
+		<execTime><![CDATA[0.0]]></execTime>
+	</historyItem>
+</history>

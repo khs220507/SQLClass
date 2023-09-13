@@ -1,0 +1,14 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select * 
+from tblcall_list call
+join tblcust cust
+on call.CUSNO = cust.id;]]></sql>
+		<connection><![CDATA[db]]></connection>
+		<timestamp><![CDATA[1693193056123]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.016]]></execTime>
+	</historyItem>
+</history>

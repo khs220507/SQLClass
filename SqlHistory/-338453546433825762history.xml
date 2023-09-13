@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select * from TBL_LECTURER_300;]]></sql>
+		<connection><![CDATA[db]]></connection>
+		<timestamp><![CDATA[1692601937921]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[10]]></executed>
+		<execTime><![CDATA[0.015]]></execTime>
+	</historyItem>
+</history>

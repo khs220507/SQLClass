@@ -1,0 +1,13 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select *
+from (select rownum num, id, pw, name from ACORNTBL)
+where num BETWEEN 5 and 10;]]></sql>
+		<connection><![CDATA[db]]></connection>
+		<timestamp><![CDATA[1694417343848]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.002]]></execTime>
+	</historyItem>
+</history>

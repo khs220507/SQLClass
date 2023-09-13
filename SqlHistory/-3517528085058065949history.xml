@@ -1,0 +1,15 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select
+store.STORE_NM "점표명"
+from SALE_TBL_500 sale
+inner join STORE_TBL_500 store
+on sale.STORE_CD = store.STORE_CD;]]></sql>
+		<connection><![CDATA[db]]></connection>
+		<timestamp><![CDATA[1692603296877]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.0]]></execTime>
+	</historyItem>
+</history>

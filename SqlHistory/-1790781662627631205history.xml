@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select * from GOODS_TBL_500;]]></sql>
+		<connection><![CDATA[db]]></connection>
+		<timestamp><![CDATA[1692604940228]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[6]]></executed>
+		<execTime><![CDATA[0.0]]></execTime>
+	</historyItem>
+</history>

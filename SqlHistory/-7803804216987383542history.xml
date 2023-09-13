@@ -1,0 +1,23 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select
+l.BOOKNO 책번호,
+l.BOOKNAME 책이름,
+l.WRITERNAME 작가,
+l.GERNE 장르,
+u.USERNAME 대여자이름,
+substr(u.PHONENUM, 0, 9) || '*******'
+
+from
+LIBRARY_TBL l
+inner join 
+LIBRARY_USER_TBL u
+on l.BOOKNO = u.BOOKNO;]]></sql>
+		<connection><![CDATA[db]]></connection>
+		<timestamp><![CDATA[1692691929636]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.0]]></execTime>
+	</historyItem>
+</history>

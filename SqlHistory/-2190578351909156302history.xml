@@ -1,0 +1,19 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select 
+cust.tel, call.regno, 
+call.REGTIME, call.REGDATE, 
+cust.name, call.STARTPOINT, 
+call.DESTINATION, call.taxino, 
+decode(call.STATE, 'P', '배치완료', 'R', '배차준비', 'X', '배차미정')
+from tblcall_list call
+join tblcust cust
+on call.CUSNO = cust.id;]]></sql>
+		<connection><![CDATA[db]]></connection>
+		<timestamp><![CDATA[1693193281494]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.007]]></execTime>
+	</historyItem>
+</history>

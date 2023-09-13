@@ -1,0 +1,26 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select
+o.R_NUM 예약번호,
+c.ID 회원아이디,
+c.NAME 회원이름,
+c.PHONE 연락처,
+m.M_TITLE 영화제목,
+m.M_GENRE 장르,
+m.M_PRICE * o.O_CNT 가격,
+o.O_CNT 예매수량
+
+from
+tbl_customer c
+inner join tbl_movie_order o
+on c.ID = o.O_ID
+inner join movie m
+on o.O_CODE = m.M_CODE;]]></sql>
+		<connection><![CDATA[db]]></connection>
+		<timestamp><![CDATA[1692759132032]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.0]]></execTime>
+	</historyItem>
+</history>

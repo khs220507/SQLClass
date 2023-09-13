@@ -1,0 +1,9 @@
+home=1692247676687
+fcpbridge=1692247670081
+ide=1692247672796
+sqldeveloper=0
+dropins=0
+user=1692247676687
+crc=7
+locale=ko_KR
+branding=jdev

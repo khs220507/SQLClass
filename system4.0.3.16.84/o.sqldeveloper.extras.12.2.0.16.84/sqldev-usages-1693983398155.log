@@ -1,0 +1,12 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<usages xmlns="http://xmlns.oracle.com/sqldeveloper/400//usages-tracking-data"><property name='uid' value='01e1f0da-018a-1000-8001-c0a800f4af5d'/>
+<property name='sessionid' value='1693983398156'/>
+<property name='build' value='MAIN-16.84'/>
+<property name='devbuild' value='false'/>
+<property name='java-version' value='1.7.0_55'/>
+<property name='os-name' value='Windows 8'/>
+<property name='edition' value='null'/>
+<property name='product-name' value='Oracle SQL Developer'/>
+<property name='product-version' value='4.0.3.16.84'/>
+<property name='start-time' value='1693983090699'/>
+<event id='editor-open' source='oracle.jdevimpl.help.StartPageEditor' time='1693983092252'><value  node-class='oracle.jdevimpl.help.StartPageNode'  /></event><event id='editor-open' source='oracle.dbtools.worksheet.editor.Worksheet' time='1693983093280'><value  node-class='oracle.ide.db.model.SqlNode'  /></event><event id='editor-open' source='oracle.dbtools.worksheet.editor.Worksheet' time='1693983104125'><value  node-class='oracle.ide.db.model.SqlNode'  /></event><event id='connection-open' source='IdeConnections%23db' time='1693983236269'><value  driver-version='11.2.0.3.0'  db-name='Oracle'  db-version='Oracle Database 19c Enterprise Edition Release 19.0.0.0.0 - Production'  /></event></usages>

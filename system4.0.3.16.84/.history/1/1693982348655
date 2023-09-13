@@ -1,0 +1,10 @@
+create   table  movie_tbl(
+   name varchar2(20) primary key, 
+   runtime number(10)
+);
+
+
+insert into movie_tbl values( '±«¹°', 180);
+insert into movie_tbl values( '±â»ıÃæ', 240);
+insert into movie_tbl values( '¿¤¸®¸àÅ»', 120);
+commit;

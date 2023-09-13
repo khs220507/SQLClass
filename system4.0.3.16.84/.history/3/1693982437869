@@ -1,0 +1,10 @@
+create   table  foodtbl(
+   name varchar2(20) primary key, 
+   price varchar2(10)
+);
+
+
+insert into foodtbl values( '½ºÆÄ°ÔÆ¼', '10000');
+insert into foodtbl values( 'ÃÊ¹ä', '12000');
+insert into foodtbl values( 'µ·±î½º', '12000');
+commit;

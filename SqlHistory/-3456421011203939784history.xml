@@ -1,0 +1,20 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select decode(deptno, null, '전체합계', deptno),
+sum(decode(job, 'CLERK', sal, 0)) CLERK,
+sum(decode(job, 'MANAGER', sal, 0)) MANAGER,
+sum(decode(job, 'PRESIDENT', sal, 0)) PRESIDENT,
+sum(decode(job, 'ANALYST', sal, 0)) ANALYST,
+sum(decode(job, 'SALESMAN', sal, 0)) SALESMAN,
+sum(sal) as TOTAL
+from emp
+group by rollup(DEPTNO)
+order by DEPTNO;]]></sql>
+		<connection><![CDATA[db]]></connection>
+		<timestamp><![CDATA[1692596272484]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[4]]></executed>
+		<execTime><![CDATA[0.0]]></execTime>
+	</historyItem>
+</history>

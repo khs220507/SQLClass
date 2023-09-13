@@ -1,0 +1,24 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select
+S.SCORE_NO "계좌번호",
+s.ARTISTID "참가자ID",
+j.JOIN_NM "참가자이름",
+to_char(to_date(j.BIRTH), '""yyyy"년"mm"월"dd"일"') "생년월일",
+s.SCORE "점수",
+case when s.SCORE>=90 THEN 'A'
+END,
+m.MENTOR_NM "멘토이름"
+from TBL_SCORE_200 s
+inner join TBL_MENTOR_200 m
+on s.MENTORID = m.MENTOR_ID
+inner join TBL_JOIN_200 j
+on j.JOIN_ID = s.ARTISTID;]]></sql>
+		<connection><![CDATA[db]]></connection>
+		<timestamp><![CDATA[1692602843595]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.003]]></execTime>
+	</historyItem>
+</history>

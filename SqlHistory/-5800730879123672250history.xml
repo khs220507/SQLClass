@@ -1,0 +1,16 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select *
+from(
+select ocode, pcode, sale_cnt
+from TBL_TEST_ORDER
+) o join tbl_test_goods g
+on o.pcode = g.pcode;]]></sql>
+		<connection><![CDATA[db]]></connection>
+		<timestamp><![CDATA[1692668501345]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.004]]></execTime>
+	</historyItem>
+</history>

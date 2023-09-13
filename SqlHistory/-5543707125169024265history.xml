@@ -1,0 +1,22 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select 
+decode(sale.SALE_FG, 1, '판매') 판매구분,
+sale.SALE_YMD 판매일자,
+good.GOODS_NM 상품명,
+sale.SALE_CNT * good.GOODS_PRICE 판매금액
+
+from
+GOODS_TBL_500 good
+inner join SALE_TBL_500 sale
+on good.GOODS_CD = sale.GOODS_CD
+inner join STORE_TBL_500 store
+on sale.STORE_CD = store.STORE_CD;]]></sql>
+		<connection><![CDATA[db]]></connection>
+		<timestamp><![CDATA[1692606211877]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.0]]></execTime>
+	</historyItem>
+</history>

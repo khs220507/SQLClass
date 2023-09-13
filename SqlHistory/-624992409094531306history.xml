@@ -1,0 +1,21 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[select
+store.STORE_NM 점포명,
+sum(sale.SALE_CNT * good.GOODS_PRICE) 총매출
+from
+GOODS_TBL_500 good
+inner join SALE_TBL_500 sale
+on good.GOODS_CD = sale.GOODS_CD
+inner join STORE_TBL_500 store
+on sale.STORE_CD = store.STORE_CD
+group by store.STORE_NM
+order by 총매출]]></sql>
+		<connection><![CDATA[db]]></connection>
+		<timestamp><![CDATA[1692604584231]]></timestamp>
+		<type><![CDATA[SQL]]></type>
+		<executed><![CDATA[1]]></executed>
+		<execTime><![CDATA[0.0]]></execTime>
+	</historyItem>
+</history>
